@@ -13,3 +13,9 @@
 </div>
 
 #
+
+<div>
+  <a href="mailto:isaac.alvarenga2020@gmail.com" target ="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blanck"></a>
+    <a href="https://www.linkedin.com/in/isaac-alvarenga-andrade-387b37267/" target ="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the badge&logo=linkedin&logoColor=white" target="_blanck"></a>
+
+</div>
